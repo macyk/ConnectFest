@@ -27,3 +27,6 @@ We will have USB keys with the necessary software on them but getting everything
 4. Google Poly (for 3D assets)
 https://github.com/googlevr/poly-toolkit-unity/releases/download/v1.1.2/poly-toolkit-v1.1.2.unitypackage
 
+5. Slides
+https://docs.google.com/presentation/d/1eIQckUwV1yLZN_RO8TPILYQzV1CDrZsL4fBKVuBuVOc/edit?usp=sharing
+
